@@ -1,0 +1,25 @@
+
+.paper {
+  width: 600px;
+  margin: 20px;
+  padding: 20px;
+  align-self: center;
+}
+
+.content{
+  font-size: 14px;
+  text-align: justify;
+  padding: 30px;
+  line-height: 0.5cm;
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  text-align: center;
+}
